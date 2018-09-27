@@ -1,0 +1,2 @@
+1:EVR:<NEW_CLASS(example.OpensCan)>:<DEFAULT>:example.FeedsWalrus:8:new OpensCan() |==> null
+2:STD:<CALL>:<NO-OP>:example.FeedsWalrus@feed(example.values.Walrus,example.values.CannedWalrusFood):11:gary.addToStomach(opensCan.open(can)) |==> <NO-OP>
